@@ -7,7 +7,8 @@ The focus of this assignment is UI accuracy, interactivity, and clean execution 
 
 ## 📱 UI Preview
 
-<img src="assets/screenshot.png" width="300"/>
+<img src="<img width="339" height="620" alt="Screenshot 2025-11-25 150645" src="https://github.com/user-attachments/assets/8073d0a2-134f-4d37-9f3b-8625c398d274" />
+" width="300"/>
 
 > (Screenshot captured from the final build.)
 
