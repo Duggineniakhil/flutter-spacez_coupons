@@ -50,5 +50,3 @@ The focus of this assignment is UI accuracy, interactivity, and clean execution 
 ```sh
 flutter pub get
 flutter run
-lib/
- └── main.dart
