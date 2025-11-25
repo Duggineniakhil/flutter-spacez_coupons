@@ -5,6 +5,14 @@ The focus of this assignment is UI accuracy, interactivity, and clean execution 
 
 ---
 
+## 📱 UI Preview
+
+<img src="assets/screenshot.png" width="300"/>
+
+> (Screenshot captured from the final build.)
+
+---
+
 ## 🧩 Scope
 
 - Recreated Coupons screen as per the provided Figma reference.
@@ -42,6 +50,7 @@ The focus of this assignment is UI accuracy, interactivity, and clean execution 
   - Full card tap interactivity  
 - Floating reward banner
 - Bottom booking summary sheet with call-to-action button
+- Snackbars for all interactions
 
 ---
 
